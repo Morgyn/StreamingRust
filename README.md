@@ -20,8 +20,14 @@ This is a guide on how to try and avoid getting streamsniped on rust. These are 
 ## Friends
 If a group of you are streaming, all of you must take the same steps. It's trivial to see who else is streaming, who's taking the least precautions and use them to find the group. If people aren't streaming, still ask them to take most of the [LINK HERE](steam profile precutions) and use streamer mode, so they don't call out peoples real steam profile names.
 ## Streamer Mode
-  Streamer mode hides certain elements of the game, changing names and removing a few other identifiable features.
-  ```global.streamermode: "True"```
+  Streamer mode hides certain elements of the game, changing names and removing a few other identifiable features. Enable these settings before joining a server or starting your stream. Do not broadcast your Rust game before setting these, if you forget change them in another scene or with an overlay.
+  
+  In Options, set:
+  ![Streamer Mode Options](https://github.com/Morgyn/StreamingRust/raw/main/streamermode.png)
+  
+  Or this can be enabled in console with:
+  ```global.streamermode true"```
+  ```global.richpresence false 
   How it works, g for map.
   Drones & Skulls
 ## Protect your steam account
