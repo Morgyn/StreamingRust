@@ -22,7 +22,7 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
 ## Streamer Mode
   Streamer mode hides certain elements of the game, changing names and removing a few other identifiable features. Enable these settings before joining a server or starting your stream. Do not broadcast your Rust game before setting these, if you forget change them in another scene or with an overlay.
   
-  In Options, set:
+  In Options, set Streamer Mode ON and Rich Presence OFF
   ![Streamer Mode Options](https://github.com/Morgyn/StreamingRust/raw/main/streamermode.png)
   
   Or this can be enabled in console with:
