@@ -40,7 +40,7 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
   
   The drone system currently has no protection for hiding the map, so hide the game before using.
   
-  Harvesting bodies the skull will say "Skull of <STREAM NAME>" irrespective of streamermode. Either don't harvest bodies or hide the game when interacting with the skull or body.
+  Harvesting bodies the skull will say ```Skull of STREAM_NAME``` irrespective of streamermode. Either don't harvest bodies or hide the game when interacting with the skull or body.
   
 ## Protect your steam account
  Make sure you're offline
