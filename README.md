@@ -26,8 +26,10 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
   ![Streamer Mode Options](https://github.com/Morgyn/StreamingRust/raw/main/streamermode.png)
   
   Or this can be enabled in console with:
-  ```global.streamermode true"```
-  ```global.richpresence false 
+  ```
+  global.streamermode true
+  global.richpresence false
+  ``` 
   How it works, g for map.
   Drones & Skulls
 ## Protect your steam account
