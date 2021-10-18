@@ -18,6 +18,7 @@
 ## Introduction
 This is a guide on how to try and avoid getting streamsniped on rust. These are a list of steps you can take to try and mitigate people finding which server you are on and ruining your day. Information can be leaked very easily but most ways can be mitigated and it's entirely possible to avoid most attempts. However if someone has enough time and enough patience they can find you via brute force, so no methods are infalible.
 ## Friends
+If a group of you are streaming, all of you must take the same steps. It's trivial to see who else is streaming, who's taking the least precautions and use them to find the group. If people aren't streaming, still ask them to take most of the [LINK HERE](steam profile precutions) and use streamer mode, so they don't call out peoples real steam profile names.
 ## Streamer Mode
   How it works, g for map.
 ## Protect your steam account
