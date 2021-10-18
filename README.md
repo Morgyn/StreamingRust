@@ -9,9 +9,10 @@
 1. Protect your steam account
 1. Hide your map
 1. Clear your console
-1. Scene to hide sensitive tasks like looking at your log.
-1. Hide in game chat and globals
+1. Hide the game
+1. In-game chat and global messaages
 1. Avoid non-vanilla servers
+1. Voice
 1. [Advantages of Facepunch run servers](#Advantages of Facepunch run servers)
 1. Handy Binds
 
@@ -30,8 +31,17 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
   global.streamermode true
   global.richpresence false
   ``` 
-  How it works, g for map.
-  Drones & Skulls
+  
+  Other than the name changes, the largest change to your experience will be the Respawn/Bag screen. This screen will now be black with no map showing until you hit your map key. It's a change from the the normal experience but allows your [map hider](#Hide your map) to work on this as well. Follow the link for details on map hiding.
+  
+  Streamer mode will not help you with the following and you should [hide the game](#Hide the game):
+  
+  When giving a bag to someone their actual steam names will be shown, if you have given someone an alias this will be shown instead. Thankfully steamids are now hidden with streamermode, but you should still hide this screen as steam names of other players will be shown and the server can still be determined.
+  
+  The drone system currently has no protection for hiding the map, so hide the game before using.
+  
+  Harvesting bodies the skull will say "Skull of <STREAM NAME>" irrespective of streamermode. Either don't harvest bodies or hide the game when interacting with the skull or body.
+  
 ## Protect your steam account
  Make sure you're offline
  Hide your friends list
@@ -41,7 +51,6 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
 ## Hide your map
    OBS Studio
    SLOBS
-     Hide Transition on source
    
 ## Clear your console
   ![Connection Message](https://github.com/Morgyn/StreamingRust/raw/main/Connecting.png)
