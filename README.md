@@ -14,3 +14,27 @@
 1. Hide in game chat and globals
 1. Avoid non-vanilla servers
 1. Advantages of Facepunch run servers.
+
+## Introduction
+## Friends
+## Streamer Mode
+    .1 How it works, g for map.
+## Protect your steam account
+ Make sure you're offline
+ Hide your friends list
+ Generic Icon
+ Private your profile
+ 
+## Hide your map
+   OBS Studio
+   SLOBS
+   
+## Clear your console
+  Replace F1 with clear
+    Because server leaks, connection message, seed & mapsize, killed NAME (STEAMID)
+  Discuss how top open the log to check things if cleared
+  
+## Scene to hide sensitive tasks like looking at your log.
+## Hide in game chat and globals
+## Avoid non-vanilla servers
+## Advantages of Facepunch run servers.
