@@ -43,4 +43,12 @@ This is a guide on how to try and avoid getting streamsniped on rust
 ## Avoid non-vanilla servers
 ## Advantages of Facepunch run servers.
 ## Handy Binds
-  Voice Mute Togglehors
+
+`bind u "console.clear;consoletoggle;combatlog"`
+`bind q "forward;sprint"`
+`bind f1 "console.clear;consoletoggle"`
+
+  Voice Mute Toggle
+`bind j "~audio.voices 5;audio.voices 0"`
+ Change the 5 to whatever you normally use, and it will toggle between mute and normal volumes on press.
+
