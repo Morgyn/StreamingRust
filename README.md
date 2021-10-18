@@ -20,7 +20,10 @@ This is a guide on how to try and avoid getting streamsniped on rust. These are 
 ## Friends
 If a group of you are streaming, all of you must take the same steps. It's trivial to see who else is streaming, who's taking the least precautions and use them to find the group. If people aren't streaming, still ask them to take most of the [LINK HERE](steam profile precutions) and use streamer mode, so they don't call out peoples real steam profile names.
 ## Streamer Mode
+  Streamer mode hides certain elements of the game, changing names and removing a few other identifiable features.
+  ```global.streamermode: "True"```
   How it works, g for map.
+  Drones & Skulls
 ## Protect your steam account
  Make sure you're offline
  Hide your friends list
@@ -42,6 +45,8 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
 ## Scene to hide sensitive tasks like looking at your log.
   Bind Real Console to this scene
   F7 to switch scenes for reporting
+  Drones
+  Skulls
   
 ## Hide in game chat and globals
 ## Avoid non-vanilla servers
