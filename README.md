@@ -31,6 +31,8 @@ This is a guide on how to try and avoid getting streamsniped on rust
    SLOBS
    
 ## Clear your console
+  ![Connection Message](https://github.com/Morgyn/StreamingRust/raw/main/Connecting.png)
+  ![Size and Seed](https://github.com/Morgyn/StreamingRust/raw/main/sizeandseed.png)
   Replace F1 with clear
     Because server leaks, connection message, seed & mapsize, killed NAME (STEAMID)
   Discuss how top open the log to check things if cleared
