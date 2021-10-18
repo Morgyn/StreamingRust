@@ -16,7 +16,7 @@
 1. Handy Binds
 
 ## Introduction
-This is a guide on how to try and avoid getting streamsniped on rust
+This is a guide on how to try and avoid getting streamsniped on rust. These are a list of steps you can take to try and mitigate people finding which server you are on and ruining your day. Information can be leaked very easily but most ways can be mitigated and it's entirely possible to avoid most attempts. However if someone has enough time and enough patience they can find you via brute force, so no methods are infalible.
 ## Friends
 ## Streamer Mode
   How it works, g for map.
@@ -29,6 +29,7 @@ This is a guide on how to try and avoid getting streamsniped on rust
 ## Hide your map
    OBS Studio
    SLOBS
+     Hide Transition on source
    
 ## Clear your console
   ![Connection Message](https://github.com/Morgyn/StreamingRust/raw/main/Connecting.png)
