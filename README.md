@@ -117,7 +117,22 @@ To configure a map hide, read the section that relates to your streaming softwar
 *  Harvesting bodies, as skulls show real profile names.
  
 ## In-game chat and global messages
+Chat should be avoided as people can easily just talk about the server, and often do. Globals should also be muted. It's quite often on some servers a unique message mentioning rules, a discord or some other easily identifiable information will be printed. Something as innocuous as a sheduled reboot can give indications to which server is playing.
+
+Either set SHOW CHAT and MUTE GLOBAL CHAT in options as shown:
+
+![chat options](/chatoptions.png)
+
+Or use the console with the following parameters.
+
+```
+graphics.chat False
+chat.muteglobal True
+```
 ## Avoid non-vanilla servers
+
+Modded servers are unique by thier nature and narrows the pool of servers massively. 
+
 ## Voice
 ## Advantages of Facepunch run servers.
 ## Handy Binds
