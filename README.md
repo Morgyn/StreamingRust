@@ -78,14 +78,23 @@ To configure a map hide, read the section that relates to your streaming softwar
    [StreamLabs OBS(/SLOBS Map Hide.md)
    
 ## Clear your console
+  Your console can easily leak the server and you should never show it on stream. Now that there is a suicide option on the main menu you should not need to use kill in console but old habits die hard. Sometimes you'll want to show combatlog or need it in the middle of action.
+  
+  The connection information is shown when you connect to a server by default and looks like this:
   ![Connection Message](/Connecting.png)
+  After that, while it looks innocuous the seed and map size is enough to find the server in most cases.
   ![Size and Seed](/sizeandseed.png)
-  ![Killed by message](/youdied.png)
-  Replace F1 with clear
-    Because server leaks, connection message, seed & mapsize, killed NAME (STEAMID)
-  Discuss how top open the log to check things if cleared
- 
+  Every time you die there is a "You died" message. This will contain the real steam name (no streamermode name) and the steam id in square brackets. Either of these bits of information makes finding the server trivial. Even worse, if you commit suicide, your steam id is shown.
+  ![You died](/youdied.png)
+  
+  To remedy this I suggest changing the default F1 console bind to a bind that clears the console first.
+  ```bind f1 "console.clear;consoletoggle"```
+  You can bind another key to a non cleared console and make this key a hotkey in obs for your hide the game method
+  
+  If you need to check your log for any reason, you can click "LOG FILE" from the console. This will open the log file in notepad. There is a lot of debug information in there, but all console messages such as the "You died" are logged there. You can use notepad's search function to find these events quickly.
+  
 ## Hide the game
+
   Bind Real Console to this scene
   F7 to switch scenes for reporting
   Drones
