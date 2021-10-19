@@ -46,10 +46,12 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
   Harvesting bodies the skull will say ```Skull of STEAM_NAME``` irrespective of streamermode. Either don't harvest bodies or hide the game when interacting with the skull or body.
   
 ## Protect your steam account
- Make sure you're offline
- Hide your friends list
- Generic Icon
- Private your profile
+ ### Consider a dedicated Rust account
+ ### Genericise your Steam name.
+ ### Generic Icon
+ ### Private your profile
+ ### Make sure you're invisible
+ ### Hide your friends list
  
 ## Hide your map
 Hiding your map is important for a number of reasons. The locations of yourself, your teammates, your bags and of course your base. The map itself can leak the server, the various unique features of a map makes it while not trivial to find the map, easily lowers the number of posibilites, combined with other information this becomes trivial.
