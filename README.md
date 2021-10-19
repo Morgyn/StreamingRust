@@ -32,9 +32,9 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
   global.richpresence false
   ``` 
   
-  Other than the name changes, the largest change to your experience will be the Respawn/Bag screen. This screen will now be black with no map showing until you hit your map key. It's a change from the the normal experience but allows your [map hider](#Hide your map) to work on this as well. Follow the link for details on map hiding.
+  Other than the name changes, the largest change to your experience will be the Respawn/Bag screen. This screen will now be black with no map showing until you hit your map key. It's a change from the the normal experience but allows your [map hider](#Hide-your-map) to work on this as well. Follow the link for details on map hiding.
   
-  Streamer mode will not help you with the following and you should [hide the game](#Hide the game):
+  Streamer mode will not help you with the following and you should [hide the game](#Hide-the-game):
   
   When giving a bag to someone their actual steam names will be shown, if you have given someone an alias this will be shown instead. Thankfully steamids are now hidden with streamermode, but you should still hide this screen as steam names of other players will be shown and the server can still be determined.
   
