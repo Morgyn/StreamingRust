@@ -27,6 +27,7 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
   Streamer mode hides certain elements of the game, changing names and removing a few other identifiable features. Enable these settings before joining a server or starting your stream. Do not broadcast your Rust game before setting these, if you forget to change them in another scene or with an overlay.
  
   In Options, set Streamer Mode ON and Rich Presence OFF
+  
   ![Streamer Mode Options](/streamermode.png)
  
   Or this can be enabled in console with:
@@ -44,6 +45,8 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
   The drone system currently has no protection for hiding the map, so hide the game before using.
  
   Harvesting bodies the skull will say ```Skull of STEAM_NAME``` irrespective of streamermode. Either don't harvest bodies or hide the game when interacting with the skull or body.
+  
+  Reporting someone with F7 will list players on the server with you, along with thier Steam IDs.
  
 ## Protect your steam account
 Once someone has your steam account it's far to easy to find your friends and locate your server. It's trivial using your profile name to find the server you are currently on. Additionally while you are playing the game, if someone on your server realises you are streaming they can can turn into a stream sniper and also potentially inform other people that you are streaming.
@@ -95,10 +98,14 @@ To configure a map hide, read the section that relates to your streaming softwar
   
 ## Hide the game
 
-  Bind Real Console to this scene
-  F7 to switch scenes for reporting
-  Drones
-  Skulls
+  Some parts of the game will leak information no matter what, but you can take some steps to avoid this by hiding the game briefly while doing this task. This can either be achieved with a scene or a source similar to [hiding your map](#Hide your map)
+  
+  You will want to set this up with a hot key that just switches to this scene/shows the source. Use this key before doing any of the activities that share information. Do not make it either a toggle or hold. Have a separate awkward hot key (Probably best with some meta keys such as Ctrl and Alt) to change it back/hide or change it manually. This is to stop accidentally showing the game undoing your hard work.
+  
+*  If you have rebound the console without clear to another key, make this trigger the game hide as well.
+*  The report system shows Steam Profile names and Steam IDs. So I suggest making F7 trigger this scene/source as well.
+*  Before entering the drone menu make sure you trigger the scene as it will show your map.
+*  Harvesting bodies, as skulls show real profile names.
  
 ## In-game chat and global messages
 ## Avoid non-vanilla servers
