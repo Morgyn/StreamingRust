@@ -52,16 +52,18 @@ Once someone has your steam account it's far to easy to find your friends and lo
  ### Genericise your Steam profile name.
  Your steam name is probably the most important part to change. It needs to be changed to something absolutely generic and common. You may want to make it a funny phrase or name, but this just makes you easier to find. Single short first names are great, Bob, John or Mary are examples. The more common the better. In game you're going to be using streamer mode anyway so your and your friends Steam profile names do not matter.
  ### Generic Icon
- The same applies to your Steam profile icon, it's no where near as important as your name but while playing someone recognises your icon when you kill them then they will have your steam profile and then will be able to use that to snipe you from then on.
+ The same applies to your Steam profile icon, it's no where near as important as your name but while playing someone recognises your icon when you kill them then they will have your steam profile and will be able to use that to snipe you from then on.
  ### Steam URL
- Having a vanity url with your streamer name again makes it increadibly easy to find your profile.
+ Having a vanity url with your streamer name makes it increadibly easy to find your profile.
  ### Comments
  Comments on your profile indicating you stream, or what your twitch is.
  ### Hide your friends list
- 
+ Always hide your friends list from everyone. You might inadvertantly leak other streamers profiles orr give people a chance to find who you are playing with and use them to find your server.
  ### Private your profile
- This mit
+ Privating your profile to everyone is the easiest option as it will hide your friends list and your comments, and any other information that may be on your profile.
  ### Make sure you're invisible
+ If you set yourself to invisible you will appear as offline to everyone, set this before you play/stream. This will prevent your profile saying you are in Rust or even worse Rich Presence showing the exact server you are playing.
+ ![Set steam to invisible](/goinvisible.png)
  
  
 ## Hide your map
