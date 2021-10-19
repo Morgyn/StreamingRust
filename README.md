@@ -13,7 +13,7 @@
 1. In-game chat and global messaages
 1. Avoid non-vanilla servers
 1. Voice
-1. [Advantages of Facepunch run servers](#Advantages of Facepunch run servers)
+1. [Advantages of Facepunch run servers](#Advantages-of-Facepunch-run-servers)
 1. Handy Binds
 
 ## Introduction
@@ -67,6 +67,7 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
   
 ## In-game chat and global messaages
 ## Avoid non-vanilla servers
+## Voice
 ## Advantages of Facepunch run servers.
 ## Handy Binds
 
