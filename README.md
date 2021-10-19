@@ -134,13 +134,52 @@ chat.muteglobal True
 Modded servers are unique by thier nature and narrows the pool of servers massively. 
 
 ## Voice
+
+More famous streamers have the problem with thier voices being recognised, even if this isn't the case if you have a good microphone in game people will think you stream.
+
+You can set Discord and OBS to use a specific device, your broadcast microphone while Rust will only listen to what you have set as the default input device. My suggestion is to install a poor quality microphone, ideally on your desk, near a fan or screaming children and set that as your default device for Rust to pick up.
+
+Other options are more complex such as running your broadcast microphone through filters or adding background noise, but in my opinion nothing beats a dollar store microphone.
+
 ## Advantages of Facepunch run servers.
+
+In the Elevator Update (01 October 2020) Facepunch added the server side variable
+
+```
+server.censorplayerlist
+```
+
+This changes how some tools are able to list who is on a server, effectively anonymising the players. Unfortunately this is not the default, and as far as I'm aware Facepunch is the only the Official Server host who uses it. This makes it much harder for you to be found, even if they have your steam profile. 
+
 ## Handy Binds
 
-`bind u "console.clear;consoletoggle;combatlog"`
-`bind q "forward;sprint"`
-`bind f1 "console.clear;consoletoggle"`
+### Clear console, show combatlog
+```
+bind u "console.clear;consoletoggle;combatlog"
+```
 
-  Voice Mute Toggle
-`bind j "~audio.voices 5;audio.voices 0"`
- Change the 5 to whatever you normally use, and it will toggle between mute and normal volumes on press.
+### Autorun
+```
+bind q "forward;sprint"
+```
+
+### Rebind console to clear
+```
+bind f1 "console.clear;consoletoggle"
+```
+
+### Bind an uncleared console to F9
+```
+bind f9 "consoletoggle"
+```
+
+###  Voice Mute Toggle
+```
+bind j "~audio.voices 5;audio.voices 0"
+```
+Change the 5 to your normal voices volume, and it will toggle between mute and normal volumes on press.
+
+### Craft Bandages
+```
+bind b craft.add -2072273936 1
+```
