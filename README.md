@@ -22,7 +22,7 @@ This is a guide on how to try and avoid getting stream-sniped on rust. These are
 Remember, all information is additive. Something might seem a very unimportant bit of information but if this can be used to narrow down the server it's best not to let that information out for free.
 
 ## Friends
-If a group of you are streaming, all of you must take the same steps. It's trivial to see who else is streaming, who's taking the least precautions and use them to find the group. If people aren't streaming, still ask them to take most of the [LINK HERE](steam profile precautions) and use streamer mode, so they don't call out people's real steam profile names.
+If a group of you are streaming, all of you must take the same steps. It's trivial to see who else is streaming, who's taking the least precautions and use them to find the group. If people aren't streaming, still ask them to take most of the actions to [protect their steam account](Protect-your-steam-account) and use streamer mode, so they don't call out people's real steam profile names.
 ## Streamer Mode
   Streamer mode hides certain elements of the game, changing names and removing a few other identifiable features. Enable these settings before joining a server or starting your stream. Do not broadcast your Rust game before setting these, if you forget to change them in another scene or with an overlay.
  
@@ -84,21 +84,30 @@ To configure a map hide, read the section that relates to your streaming softwar
   Your console can easily leak the server and you should never show it on stream. Now that there is a suicide option on the main menu you should not need to use kill in console but old habits die hard. Sometimes you'll want to show combatlog or need it in the middle of action.
   
   The connection information is shown when you connect to a server by default and looks like this:
+  
   ![Connection Message](/Connecting.png)
+  
   After that, while it looks innocuous the seed and map size is enough to find the server in most cases.
+  
   ![Size and Seed](/sizeandseed.png)
+  
   Every time you die there is a "You died" message. This will contain the real steam name (no streamermode name) and the steam id in square brackets. Either of these bits of information makes finding the server trivial. Even worse, if you commit suicide, your steam id is shown.
+  
   ![You died](/youdied.png)
   
   To remedy this I suggest changing the default F1 console bind to a bind that clears the console first.
-  ```bind f1 "console.clear;consoletoggle"```
+  
+  ```
+  bind f1 "console.clear;consoletoggle"
+  ```
+  
   You can bind another key to a non cleared console and make this key a hotkey in obs for your hide the game method
   
   If you need to check your log for any reason, you can click "LOG FILE" from the console. This will open the log file in notepad. There is a lot of debug information in there, but all console messages such as the "You died" are logged there. You can use notepad's search function to find these events quickly.
   
 ## Hide the game
 
-  Some parts of the game will leak information no matter what, but you can take some steps to avoid this by hiding the game briefly while doing this task. This can either be achieved with a scene or a source similar to [hiding your map](#Hide your map)
+  Some parts of the game will leak information no matter what, but you can take some steps to avoid this by hiding the game briefly while doing this task. This can either be achieved with a scene or a source similar to [hiding your map](#Hide-your-map)
   
   You will want to set this up with a hot key that just switches to this scene/shows the source. Use this key before doing any of the activities that share information. Do not make it either a toggle or hold. Have a separate awkward hot key (Probably best with some meta keys such as Ctrl and Alt) to change it back/hide or change it manually. This is to stop accidentally showing the game undoing your hard work.
   
