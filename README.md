@@ -27,7 +27,7 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
   Streamer mode hides certain elements of the game, changing names and removing a few other identifiable features. Enable these settings before joining a server or starting your stream. Do not broadcast your Rust game before setting these, if you forget change them in another scene or with an overlay.
   
   In Options, set Streamer Mode ON and Rich Presence OFF
-  ![Streamer Mode Options](https://github.com/Morgyn/StreamingRust/raw/main/streamermode.png)
+  ![Streamer Mode Options](/streamermode.png)
   
   Or this can be enabled in console with:
   ```
@@ -63,8 +63,9 @@ To configure a map hide, read the section that relates to your streaming softwar
    [StreamLabs OBS(/SLOBS Map Hide.md)
    
 ## Clear your console
-  ![Connection Message](https://github.com/Morgyn/StreamingRust/raw/main/Connecting.png)
-  ![Size and Seed](https://github.com/Morgyn/StreamingRust/raw/main/sizeandseed.png)
+  ![Connection Message](/Connecting.png)
+  ![Size and Seed](/sizeandseed.png)
+  ![Killed by message](/youdied.png)
   Replace F1 with clear
     Because server leaks, connection message, seed & mapsize, killed NAME (STEAMID)
   Discuss how top open the log to check things if cleared
