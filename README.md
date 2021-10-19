@@ -7,9 +7,9 @@
 1. [Friends](#Friends)
 1. [Streamer Mode](#Streamer-Mode)
 1. [Protect your steam account](#Protect-your-steam-account)
-1. Hide your map
-1. Clear your console
-1. Hide the game
+1. [Hide your map](#Hide-your-map)
+1. [Clear your console](#Clear-your-console)
+1. [Hide the game](#Hide-the-game)
 1. In-game chat and global messaages
 1. Avoid non-vanilla servers
 1. Voice
