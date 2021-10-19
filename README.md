@@ -4,9 +4,9 @@
 
 ## Contents
 1. [Introduction](#Introduction)
-1. Friends
-1. Streamer Mode
-1. Protect your steam account
+1. [Friends](#Friends)
+1. [Streamer Mode](#Streamer-Mode)
+1. [Protect your steam account](#Protect-your-steam-account)
 1. Hide your map
 1. Clear your console
 1. Hide the game
