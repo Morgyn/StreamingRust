@@ -59,13 +59,13 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
     Because server leaks, connection message, seed & mapsize, killed NAME (STEAMID)
   Discuss how top open the log to check things if cleared
   
-## Scene to hide sensitive tasks like looking at your log.
+## Hide the game
   Bind Real Console to this scene
   F7 to switch scenes for reporting
   Drones
   Skulls
   
-## Hide in game chat and globals
+## In-game chat and global messaages
 ## Avoid non-vanilla servers
 ## Advantages of Facepunch run servers.
 ## Handy Binds
