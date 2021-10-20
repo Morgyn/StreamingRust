@@ -46,22 +46,22 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
  
   Harvesting bodies the skull will say ```Skull of STEAM_NAME``` irrespective of streamermode. Either don't harvest bodies or hide the game when interacting with the skull or body.
   
-  Reporting someone with F7 will list players on the server with you, along with thier Steam IDs.
+  Reporting someone with F7 will list players on the server with you, along with their Steam IDs.
  
 ## Protect your steam account
 Once someone has your steam account it's far to easy to find your friends and locate your server. It's trivial using your profile name to find the server you are currently on. Additionally while you are playing the game, if someone on your server realises you are streaming they can can turn into a stream sniper and also potentially inform other people that you are streaming.
  ### Consider a dedicated Rust account
  Having a dedicated steam account just for Rust will avoid most of the downsides of locking your account down and depersonalising it. If you are wanting to retain all the social aspects of your current steam account, I recommend a dedicated account.
  ### Genericise your Steam profile name.
- Your steam name is probably the most important part to change. It needs to be changed to something absolutely generic and common. You may want to make it a funny phrase or name, but this just makes you easier to find. Single short first names are great, Bob, John or Mary are examples. The more common the better. In game you're going to be using streamer mode anyway so your and your friends Steam profile names do not matter.
+ Your steam name is probably the most important part to change. It needs to be changed to something absolutely generic and common. You may want to make it a funny phrase or name, but this just makes you easier to find. Single short first names are great, Bob, John or Mary are examples. The more common the better. In game you're going to be using streamer mode anyway so your and your friend's Steam profile names do not matter.
  ### Generic Icon
  The same applies to your Steam profile icon, it's no where near as important as your name but while playing someone recognises your icon when you kill them then they will have your steam profile and will be able to use that to snipe you from then on.
  ### Steam URL
- Having a vanity url with your streamer name makes it increadibly easy to find your profile.
+ Having a vanity url with your streamer name makes it incredibly easy to find your profile.
  ### Comments
  Comments on your profile indicating you stream, or what your twitch is.
  ### Hide your friends list
- Always hide your friends list from everyone. You might inadvertantly leak other streamers profiles orr give people a chance to find who you are playing with and use them to find your server.
+ Always hide your friends list from everyone. You might inadvertently leak other streamer's profiles or give people a chance to find who you are playing with and use them to find your server.
  ### Private your profile
  Privating your profile to everyone is the easiest option as it will hide your friends list and your comments, and any other information that may be on your profile.
  ### Make sure you're invisible
@@ -109,7 +109,7 @@ To configure a map hide, read the section that relates to your streaming softwar
 
   Some parts of the game will leak information no matter what, but you can take some steps to avoid this by hiding the game briefly while doing this task. This can either be achieved with a scene or a source similar to [hiding your map](#Hide-your-map)
   
-  You will want to set this up with a hot key that just switches to this scene/shows the source. Use this key before doing any of the activities that share information. Do not make it either a toggle or hold. Have a separate awkward hot key (Probably best with some meta keys such as Ctrl and Alt) to change it back/hide or change it manually. This is to stop accidentally showing the game undoing your hard work.
+  You will want to set this up with a hotkey that just switches to this scene/shows the source. Use this key before doing any of the activities that share information. Do not make it either a toggle or hold. Have a separate awkward hotkey (Probably best with some meta keys such as Ctrl and Alt) to change it back/hide or change it manually. This is to stop accidentally showing the game undoing your hard work.
   
 *  If you have rebound the console without clear to another key, make this trigger the game hide as well.
 *  The report system shows Steam Profile names and Steam IDs. So I suggest making F7 trigger this scene/source as well.
@@ -117,7 +117,7 @@ To configure a map hide, read the section that relates to your streaming softwar
 *  Harvesting bodies, as skulls show real profile names.
  
 ## In-game chat and global messages
-Chat should be avoided as people can easily just talk about the server, and often do. Globals should also be muted. It's quite often on some servers a unique message mentioning rules, a discord or some other easily identifiable information will be printed. Something as innocuous as a sheduled reboot can give indications to which server is playing.
+Chat should be avoided as people can easily just talk about the server, and often do. Globals should also be muted. It's quite often on some servers a unique message mentioning rules, a discord or some other easily identifiable information will be printed. Something as innocuous as a scheduled reboot can give indications to which server is playing.
 
 Either set SHOW CHAT and MUTE GLOBAL CHAT in options as shown:
 
@@ -132,11 +132,11 @@ chat.muteglobal True
 
 ## Avoid non-vanilla servers
 
-Modded servers are unique by thier nature and narrows the pool of servers massively. 
+Modded servers are unique by their nature and narrows the pool of servers massively. 
 
 ## Voice
 
-More famous streamers have the problem with thier voices being recognised, even if this isn't the case if you have a good microphone in game people will think you stream.
+More famous streamers have the problem with their voices being recognised, even if this isn't the case if you have a good microphone in game people will think you stream.
 
 You can set Discord and OBS to use a specific device, your broadcast microphone while Rust will only listen to what you have set as the default input device. My suggestion is to install a poor quality microphone, ideally on your desk, near a fan or screaming children and set that as your default device for Rust to pick up.
 
