@@ -10,11 +10,11 @@
 1. [Hide your map](#Hide-your-map)
 1. [Clear your console](#Clear-your-console)
 1. [Hide the game](#Hide-the-game)
-1. In-game chat and global messages
-1. Avoid non-vanilla servers
-1. Voice
+1. [In-game chat and global messages](#In-game-chat-and-global-messages)
+1. [Avoid non-vanilla servers](#Avoid-non-vanilla-servers)
+1. [Voice](#Voice)
 1. [Advantages of Facepunch run servers](#Advantages-of-Facepunch-run-servers)
-1. Handy Binds
+1. [Handy Binds](#Handy-Binds)
 
 ## Introduction
 This is a guide on how to try and avoid getting stream-sniped on rust. These are a list of steps you can take to try and mitigate people finding which server you are on and ruining your day. Information can be leaked very easily but most ways can be mitigated and it's entirely possible to avoid most attempts. However if someone has enough time and enough patience they can find you via brute force, so no methods are infallible.
@@ -129,6 +129,7 @@ Or use the console with the following parameters.
 graphics.chat False
 chat.muteglobal True
 ```
+
 ## Avoid non-vanilla servers
 
 Modded servers are unique by thier nature and narrows the pool of servers massively. 
