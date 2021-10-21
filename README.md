@@ -103,7 +103,11 @@ To configure a map hide, read the section that relates to your streaming softwar
   
   You can bind another key to a non cleared console and make this key a hotkey in obs for your [hide the game](#Hide-the-game) method
   
-  If you need to check your log for any reason, you can click "LOG FILE" from the console. This will open the log file in notepad. There is a lot of debug information in there, but all console messages such as the "You died" are logged there. You can use notepad's search function to find these events quickly.
+  If you need to check your log for any reason, you can click "LOG FILE" from the console.
+  
+  ![Console Buttons](ConsoleButtons.png)
+  
+  This will open the log file in notepad. There is a lot of debug information in there, but all console messages such as the "You died" are logged there. You can use notepad's search function to find these events quickly.
   
 ## Hide the game
 
