@@ -103,7 +103,7 @@ To configure a map hide, read the section that relates to your streaming softwar
   
   You can bind another key to a non cleared console and make this key a hotkey in obs for your [hide the game](#Hide-the-game) method
   
-  If you need to check your log for any reason, you can click "LOG FILE" from the console.
+  If you need to check your log for any reason, you can click "LOG FILE" from the console, via the buttons in the bottom right.
   
   ![Console Buttons](ConsoleButtons.png)
   
