@@ -160,7 +160,7 @@ This changes how some tools are able to list who is on a server, effectively ano
 
 ### Clear console, show combatlog
 ```
-bind u "console.clear;consoletoggle;combatlog"
+bind u "consoletoggle;console.clear;combatlog"
 ```
 
 ### Autorun
@@ -170,7 +170,7 @@ bind q "forward;sprint"
 
 ### Rebind console to clear
 ```
-bind f1 "console.clear;consoletoggle"
+bind f1 "consoletoggle;console.clear"
 ```
 
 ### Bind an uncleared console to F9
