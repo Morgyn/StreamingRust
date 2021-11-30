@@ -49,7 +49,7 @@ If a group of you are streaming, all of you must take the same steps. It's trivi
   Reporting someone with F7 will list players on the server with you, along with their Steam IDs.
  
 ## Protect your steam account
-Once someone has your steam account it's far to easy to find your friends and locate your server. It's trivial using your profile name to find the server you are currently on. Additionally while you are playing the game, if someone on your server realises you are streaming they can can turn into a stream sniper and also potentially inform other people that you are streaming.
+Once someone has your steam account it's far too easy to find your friends and locate your server. It's trivial using your profile name to find the server you are currently on. Additionally while you are playing the game, if someone on your server realises you are streaming they can can turn into a stream sniper and also potentially inform other people that you are streaming.
  ### Consider a dedicated Rust account
  Having a dedicated steam account just for Rust will avoid most of the downsides of locking your account down and depersonalising it. If you are wanting to retain all the social aspects of your current steam account, I recommend a dedicated account.
  ### Genericise your Steam profile name.
