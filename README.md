@@ -99,7 +99,7 @@ To configure a map hide, read the section that relates to your streaming softwar
   To remedy this I suggest changing the default F1 console bind to a bind that clears the console first.
   
   ```
-  bind f1 "console.clear;consoletoggle"
+  bind f1 "consoletoggle;console.clear"
   ```
   
   You can bind another key to a non cleared console and make this key a hotkey in obs for your [hide the game](#Hide-the-game) method
