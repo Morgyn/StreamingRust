@@ -22,7 +22,8 @@ This is a guide on how to try and avoid getting stream-sniped on rust. These are
 Remember, all information is additive. Something might seem a very unimportant bit of information but if this can be used to narrow down the server it's best not to let that information out for free.
 
 ## Friends
-If a group of you are streaming, all of you must take the same steps. It's trivial to see who else is streaming, who's taking the least precautions and use them to find the group. If people aren't streaming, still ask them to take most of the actions to [protect their steam account](Protect-your-steam-account) and use streamer mode, so they don't call out people's real steam profile names.
+If a group of you are streaming, all of you must take the same steps. It's extremely easy to see who else is streaming, who's taking the least precautions and use them to find the group. If people aren't streaming, still ask them to take most of the actions to [protect their steam account](Protect-your-steam-account) and use streamer mode, so they don't call out people's real steam profile names.
+
 ## Streamer Mode
   Streamer mode hides certain elements of the game, changing names and removing a few other identifiable features. Enable these settings before joining a server or starting your stream. Do not broadcast your Rust game before setting these, if you forget to change them in another scene or with an overlay.
  
