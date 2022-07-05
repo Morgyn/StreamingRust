@@ -79,7 +79,7 @@ To configure a map hide, read the section that relates to your streaming softwar
    OBS Studio requires additional software and a plugin. I've forked a copy of the software and have it available [here](https://github.com/Morgyn/OBSKeys). Please follow the projects instructions, it includes where to source the plugin.
 ### StreamLabs OBS
    The configuration of Streamlabs OBS is very easy, but it has a flaw that it leaks a few frames when you release the hotkey
-   [StreamLabs OBS(/SLOBS Map Hide.md)
+   [StreamLabs OBS(/SLOBS Map Hide.md]
    
 ## Clear your console
   Your console can easily leak the server and you should never show it on stream. Now that there is a suicide option on the main menu you should not need to use kill in console but old habits die hard. Sometimes you'll want to show combatlog or need it in the middle of action.
